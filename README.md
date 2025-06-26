@@ -1,4 +1,3 @@
-# Emotion2Poem
 
 Transform your emotions into beautiful poetry with this elegant web application.
 
